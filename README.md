@@ -38,7 +38,7 @@ Tenho 28 anos, moro em Natal/RN e sou apaixonado por programação, RPG e jogos 
 
 ## 📫 Entre em contato:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/jo%C3%A3o-vitor-tomaz-de-souza-duarte-b508b1309/)
-[![Email](https://img.shields.io/badge/Email-dev_joao@outlook.com-red)]
+[![Email](https://img.shields.io/badge/Email-dev_joao@outlook.com-red)](dev_joao@outlook.com)]
 ## 🔗 Siga-me:
 [![Instagram](https://img.shields.io/badge/-Instagram-orange)](https://www.instagram.com/joao_vitor_tsd/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Joao-Vitor-Duarte)
