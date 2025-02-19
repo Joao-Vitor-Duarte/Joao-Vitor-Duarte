@@ -21,5 +21,5 @@ Tenho 28 anos, moro em Natal/RN e sou apaixonado por programação RPG e jogos d
 ## Estou aprendendo:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"  width="40" height="40" />               
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> width="40" height="40" />               
 </div>
