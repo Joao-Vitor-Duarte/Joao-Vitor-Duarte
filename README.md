@@ -33,8 +33,8 @@ Tenho 28 anos, moro em Natal/RN e sou apaixonado por programação, RPG e jogos 
 ---
 
 ## 🌟 Projetos:
-- [Projeto 1](https://github.com/Joao-Vitor-Duarte/projeto1): Descrição breve do projeto 1.
-- [Projeto 2](https://github.com/Joao-Vitor-Duarte/projeto2): Descrição breve do projeto 2.
+- [Sinopses](https://github.com/Joao-Vitor-Duarte/projeto1): Sinopse de filmes em Inglês.
+- [Alura Space](https://github.com/Joao-Vitor-Duarte/projeto2): Site com informações Astronômicas.
 
 ## 📫 Entre em contato:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/jo%C3%A3o-vitor-tomaz-de-souza-duarte-b508b1309/)
