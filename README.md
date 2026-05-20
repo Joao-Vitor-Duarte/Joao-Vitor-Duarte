@@ -20,6 +20,13 @@ Desenvolvedor Backend e Bacharel em Ciência da Computação, focado na constru�
 
 ---
 
+## PROJETOS EM DESTAQUE
+
+* [Sinopses](https://github.com/Joao-Vitor-Duarte/movies-plot): Sinopse de filmes em Inglês.
+* [Alura Space](https://github.com/Joao-Vitor-Duarte/alura-space): Site com informações Astronômicas.
+
+---
+
 ## EXPERIÊNCIA PROFISSIONAL
 
 ### CEHAB-RN (Companhia Estadual de Habitação e Desenvolvimento Urbano)
@@ -32,11 +39,6 @@ Desenvolvedor Backend e Bacharel em Ciência da Computação, focado na constru�
 * Configurei e mantive ambientes de desenvolvimento contêinerizados utilizando Docker e sistemas operacionais Linux, provendo suporte ágil e estabilidade para a rede local e operações internas.
 
 ---
-
-## PROJETOS EM DESTAQUE
-
-* [Sinopses](https://github.com/Joao-Vitor-Duarte/movies-plot): Sinopse de filmes em Inglês.
-* [Alura Space](https://github.com/Joao-Vitor-Duarte/alura-space): Site com informações Astronômicas.
 
 ### Desenvolvimento de API RESTful de Alta Performance (Node.js & TypeScript)
 
