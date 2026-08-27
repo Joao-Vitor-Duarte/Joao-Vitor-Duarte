@@ -52,17 +52,6 @@ Práticas         : REST APIs, TDD, SOLID, Clean Architecture
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![João Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Vitor-Duarte&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-Duarte&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
   <i>"Comprometido com a excelência técnica, código limpo e arquitetura resiliente."</i>
 </div>
