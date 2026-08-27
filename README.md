@@ -1,67 +1,68 @@
 # João Vitor Tomaz de Souza Duarte
 
-[LinkedIn](https://www.linkedin.com/in/joao-vitor-ts-duarte/) 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-ts-duarte/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-Vitor-Duarte)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitor.tsduarte@gmail.com)
+
+</div>
 
 ---
 
-## RESUMO PROFISSIONAL
+### 👨‍💻 Sobre Mim
 
-Desenvolvedor Backend e Bacharel em Ciência da Computação, focado na construção de soluções seguras, escaláveis e de alta disponibilidade. Possui sólidos conhecimentos em Python e no ecossistema JavaScript/TypeScript, com vasta experiência no desenvolvimento de APIs RESTful. Especialista em otimização e gerenciamento de bancos de dados relacionais e não-relacionais, com vivência prática em exploração, transformação e processos de ETL utilizando SQL em ambientes de grande escala. Comprometido com a excelência técnica, utiliza metodologias ágeis, TDD (Test-Driven Development) e testes automatizados para garantir entregas de alto impacto. Proficiente em infraestrutura e DevOps, atuando rotineiramente com Docker, Linux, Git e mensageria corporativa.
+Sou **Desenvolvedor Backend** e **Bacharel em Ciência da Computação**, especializado na construção de **APIs RESTful seguras, escaláveis e de alta disponibilidade**. Possuo sólida atuação em todo o ecossistema **Node.js (TypeScript/NestJS/Express)** e **Python (Django)**, além de experiência em otimização de banco de dados
 
----
-
-## COMPETÊNCIAS TÉCNICAS
-
-* **Linguagens:** Python, JavaScript, TypeScript, Node.js.
-* **Arquitetura & Engenharia de Software:** Desenvolvimento de APIs RESTful, TDD e Testes Automatizados, Princípios SOLID, Clean Code, Arquitetura em Camadas, Metodologias Ágeis.
-* **Bancos de Dados & Dados:** SQL Avançado (Exploração, Transformação e ETL), Processamento de dados em grande escala, PostgreSQL, MySQL, SQL Server, MongoDB.
-* **DevOps & Infraestrutura:** Docker / Containers, Linux, Git.
-* **Frameworks:** Django, NestJS, Express.js, React.
+- 🔭 **Foco atual:** Arquitetura de Software Backend, Microserviços e Engenharia de Dados.
+- 🧪 **Metodologias:** Test-Driven Development (TDD), Clean Code, SOLID e Metodologias Ágeis.
+- ⚙️ **DevOps & Cloud:** Prática diária com Docker, ambientes Linux e fluxos de CI/CD.
+- 🎓 **Formação:** Bacharel em Ciência da Computação (UnP).
 
 ---
 
-## PROJETOS EM DESTAQUE
+### 🛠️ Tecnologias & Ferramentas
 
-* [Sinopses](https://github.com/Joao-Vitor-Duarte/movies-plot): Sinopse de filmes em Inglês.
-* [Alura Space](https://github.com/Joao-Vitor-Duarte/alura-space): Site com informações Astronômicas.
-
----
-
-## EXPERIÊNCIA PROFISSIONAL
-
-### CEHAB-RN (Companhia Estadual de Habitação e Desenvolvimento Urbano)
-
-**Estagiário de TI (Desenvolvimento e Infraestrutura)** | *Outubro 2020 - Dezembro 2022*
-
-* Desenvolvi e aprimorei a API RESTful do portal "+Transparência", processando dados governamentais em grande escala e garantindo consumo eficiente, íntegro e escalável de informações públicas.
-* Gerenciei a infraestrutura de hospedagem e múltiplos bancos de dados SQL, implementando práticas voltadas para a segurança da informação e a alta disponibilidade dos sistemas governamentais.
-* Otimizei estruturalmente esquemas de banco de dados e rotinas de extração/transformação (ETL), diagnosticando e resolvendo bugs críticos que reduziram drasticamente o tempo de resposta do portal oficial <https://transparencia.cehabrn.com.br/>
-* Configurei e mantive ambientes de desenvolvimento contêinerizados utilizando Docker e sistemas operacionais Linux, provendo suporte ágil e estabilidade para a rede local e operações internas.
+```text
+Linguagens       : TypeScript, JavaScript, Python, C#, Lua
+Backend          : Node.js, NestJS, Express.js, Django
+Bancos de Dados  : PostgreSQL, MySQL, SQL Server, MongoDB
+Infra & DevOps   : Docker, Linux, Git
+Práticas         : REST APIs, TDD, SOLID, Clean Architecture
+```
 
 ---
 
-### Desenvolvimento de API RESTful de Alta Performance (Node.js & TypeScript)
+### 🚀 Projetos em Destaque
 
-* Projetei e implementei serviços backend escaláveis utilizando Arquitetura em Camadas, focados em cenários de alta disponibilidade.
-* Apliquei rigorosamente os princípios SOLID e Clean Code em conjunto com práticas de testes automatizados (TDD), assegurando uma base de código resiliente e de fácil manutenção.
-* Integrei a aplicação com bancos de dados (MongoDB) para otimizar o processamento de dados e a eficiência do tráfego em arquiteturas distribuídas.
-
----
-
-## FORMAÇÃO ACADÊMICA
-
-* **Bacharelado em Ciência da Computação** Universidade Potiguar (UnP) | *Junho 2018 - Dezembro 2023*
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| 🎬 **[Sinopses](https://github.com/Joao-Vitor-Duarte/movies-plot)** | Aplicação para consulta e exibição de sinopses de filmes em inglês. | Python, Django, REST API |
+| 🌌 **[Alura Space](https://github.com/Joao-Vitor-Duarte/alura-space)** | Plataforma interativa com informações e galeria de imagens astronômicas. | Python, Django, HTML/CSS |
 
 ---
 
-## CURSOS E CERTIFICAÇÕES
+### 💼 Experiência Profissional
 
-* Django: Criação de Aplicações em Python - Alura (2024)
-* Python com Orientação a Objetos - Alura (2024)
+#### **Estagiário de TI (Desenvolvimento & Infraestrutura)** — *CEHAB-RN*
+*(Outubro 2020 – Dezembro 2022)*
+- Desenvolvi e evoluí a API RESTful do portal **+Transparência**, viabilizando o processamento e consumo eficiente de dados governamentais em grande escala.
+- Otimizei consultas SQL complexas, reduzindo substancialmente o tempo de resposta das requisições e aumentando a estabilidade do sistema.
+- Gerenciei infraestrutura em contêineres **Docker** e servidores **Linux**, assegurando alta disponibilidade e integração contínua.
 
 ---
 
-## IDIOMAS E SOFT SKILLS
+### 📊 Estatísticas do GitHub
 
-* **Idiomas:** Português (Nativo) | **Inglês (Fluente)**
-* **Soft Skills:** Comunicação técnica assertiva, trabalho em equipes multidisciplinares e ágeis, forte capacidade analítica para resolução de problemas complexos e alto nível de comprometimento com prazos e qualidade de entrega.
+<div align="center">
+
+![João Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Vitor-Duarte&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-Duarte&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"Comprometido com a excelência técnica, código limpo e arquitetura resiliente."</i>
+</div>
